@@ -1,0 +1,55 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/LegrandLucas/Intro-VUE3-Completed
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "L3-start"]
+	remote = origin
+	merge = refs/heads/L3-start
+[branch "L4-start"]
+	remote = origin
+	merge = refs/heads/L4-start
+[remote "myRepo"]
+	url = https://github.com/LegrandLucas/Intro-to-Vue-3
+	fetch = +refs/heads/*:refs/remotes/myRepo/*
+[branch "L5-start"]
+	remote = origin
+	merge = refs/heads/L5-start
+[branch "L6-start"]
+	remote = origin
+	merge = refs/heads/L6-start
+[branch "L7-start"]
+	remote = origin
+	merge = refs/heads/L7-start
+[branch "L7-end"]
+	remote = origin
+	merge = refs/heads/L7-end
+[branch "L8-start"]
+	remote = origin
+	merge = refs/heads/L8-start
+[branch "L8-end"]
+	remote = origin
+	merge = refs/heads/L8-end
+[branch "L9-start"]
+	remote = origin
+	merge = refs/heads/L9-start
+[branch "L9-end"]
+	remote = origin
+	merge = refs/heads/L9-end
+[branch "L10-start"]
+	remote = origin
+	merge = refs/heads/L10-start
+[branch "L11-start"]
+	remote = origin
+	merge = refs/heads/L11-start
+[branch "main"]
+	remote = origin
+	merge = refs/heads/L11-end
